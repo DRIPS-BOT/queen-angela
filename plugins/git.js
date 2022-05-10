@@ -13,7 +13,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
  
 ❏©drips ®zimbots☑✔
 
-*🌟𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐍𝐔𝐌𝐁𝐄𝐑🎊🎊 : wa.me/27634090203?text=Hii%20DripsMemes%20Save%20for%20save.%20*
+*🌟𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐍𝐔𝐌𝐁𝐄𝐑🎊🎊 : wa.me/918188019676?text=Hii%20DripsMemes%20Save%20for%20save.%20*
 
  *🌟𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐔𝐏𝐃𝐀𝐓𝐄𝐒⏳⌛ .update   To update Bot .update now*
 
